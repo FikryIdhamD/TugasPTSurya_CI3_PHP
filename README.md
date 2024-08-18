@@ -31,11 +31,13 @@ Proyek ini adalah aplikasi web yang dikembangkan menggunakan **CodeIgniter 3** y
 
     Setelah di-clone, pindahkan folder proyek ini ke direktori `C:\xampp\htdocs\{Nama File}`. Pastikan untuk mengganti `Nama File` dengan nama folder yang sesuai dengan nama file repository yang telah Anda clone tanpa kurung kurawal {}.
 
-4. **Jalankan Apache di XAMPP**:
+	 Contoh: C:\xampp\htdocs\TugasPTSurya_CI3_PHP
+
+5. **Jalankan Apache di XAMPP**:
 
     Buka aplikasi **XAMPP** dan nyalakan **Apache**.
 
-5. **Akses Aplikasi di Browser**:
+6. **Akses Aplikasi di Browser**:
 
     Buka browser dan masukkan URL berikut untuk mengakses aplikasi:
 
