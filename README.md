@@ -11,7 +11,7 @@ Proyek ini adalah aplikasi web yang dikembangkan menggunakan **CodeIgniter 3** y
 
   Proyek sebelumnya yang perlu dijalankan sebelum mengoperasikan aplikasi ini. [(Link Ke Proyek Sebelumnya)](https://github.com/FikryIdhamD/TugasPTSurya_Springboot)
 
-  Pastikan seluruh fungsi REST API berjalan dengan baik.
+  Pastikan seluruh fungsi REST API dari proyek sebelumnya berjalan dengan baik.
 
 ## Langkah-langkah Menjalankan Aplikasi
 
