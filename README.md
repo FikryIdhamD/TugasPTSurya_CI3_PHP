@@ -67,7 +67,38 @@ Proyek ini adalah aplikasi web yang dikembangkan menggunakan **CodeIgniter 3** y
 
 ## Bukti dan Dokumentasi
 
-- **Screenshot Website**: (Tambahkan link atau gambar screenshot di sini)
+- **Screenshot Website**:
+- Halaman Awal (Menampilkan List dari Proyek):
+  
+  ![image](https://github.com/user-attachments/assets/934ad0cb-f1fb-45f0-b0bb-1f09f42733c0)
+  
+- Form Tambah Proyek (Menampilkan Form untuk membuat Proyek dengan Lokasi sudah mengacu pada Database):
+  - Menambahkan Proyek:
+
+    ![image](https://github.com/user-attachments/assets/ed77f787-58b3-48b4-896a-eed9a1fd8000)
+    
+  - Hasil :
+
+    ![image](https://github.com/user-attachments/assets/d02132c1-11be-43e4-aba2-9d9007651314)
+
+- Form Edit Proyek (Menampilkan Form untuk Mengubah Proyek dengan Lokasi sudah mengacu pada Database):
+  - Mengubah Proyek :
+
+    ![image](https://github.com/user-attachments/assets/83db4125-d9af-4ec2-a872-780eeec4a06f)
+
+  - Hasil :
+
+    ![image](https://github.com/user-attachments/assets/2b23902d-08a8-4d21-ba3e-38795fabaeb6)
+
+- Fungsi Delete :
+  - Before :
+
+    ![image](https://github.com/user-attachments/assets/9b23019d-cc9a-47dc-b9d0-874365017ff8)
+
+  - After :
+
+    ![image](https://github.com/user-attachments/assets/c07cf59e-9f06-493e-94ac-dfc19613c157)
+
 - **Video Demo Website**:
 
 	https://github.com/user-attachments/assets/60ed0225-601c-4279-8c4c-9d82f444ddc7
