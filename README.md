@@ -69,11 +69,10 @@ Proyek ini adalah aplikasi web yang dikembangkan menggunakan **CodeIgniter 3** y
 
 - **Screenshot Website**: (Tambahkan link atau gambar screenshot di sini)
 - **Video Demo Website**:
-  
 
-## Kontribusi
+	https://github.com/user-attachments/assets/60ed0225-601c-4279-8c4c-9d82f444ddc7
 
-Jika Anda ingin berkontribusi pada proyek ini, silakan buat **pull request** atau buka **issue** baru di repository ini.
+
 
 ## Lisensi
 
