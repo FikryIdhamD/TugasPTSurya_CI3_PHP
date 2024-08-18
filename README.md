@@ -5,13 +5,13 @@ Proyek ini adalah aplikasi web yang dikembangkan menggunakan **CodeIgniter 3** y
 ## Prasyarat
 
 - **XAMPP**: Digunakan untuk menjalankan server lokal (Apache dan MySQL).
-- **Java Spring Boot REST API**: Proyek sebelumnya yang perlu dijalankan sebelum mengoperasikan aplikasi ini. Pastikan seluruh fungsi REST API berjalan dengan baik.
+- **Java Spring Boot REST API**: Proyek sebelumnya yang perlu dijalankan sebelum mengoperasikan aplikasi ini[(Link Ke Proyek Sebelumnya)](https://github.com/FikryIdhamD/TugasPTSurya_Springboot). Pastikan seluruh fungsi REST API berjalan dengan baik.
 
 ## Langkah-langkah Menjalankan Aplikasi
 
 1. **Jalankan REST API Java Spring Boot**:
 
-    Pastikan Anda telah mengikuti semua langkah di proyek [Java Spring Boot REST API](https://github.com/username/repository.git) untuk menjalankan REST API. Pastikan semua fungsi berjalan dengan baik.
+    Pastikan Anda telah mengikuti semua langkah di proyek [Java Spring Boot REST API](https://github.com/FikryIdhamD/TugasPTSurya_Springboot) untuk menjalankan REST API. Pastikan semua fungsi berjalan dengan baik.
 
 2. **Clone Repository ini**:
 
