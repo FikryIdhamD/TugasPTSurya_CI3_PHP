@@ -50,14 +50,16 @@ Proyek ini adalah aplikasi web yang dikembangkan menggunakan **CodeIgniter 3** y
 ## Fitur Aplikasi
 
 1. **Halaman Utama**:
-    - Menampilkan daftar seluruh proyek yang ada di database.
+    - Menampilkan daftar List seluruh proyek yang ada di database.
 
 2. **Tambah Proyek**:
     - Klik tombol **Tambah Proyek** untuk menambahkan proyek baru.
+    - Menampilkan Form.
     - Form ini akan otomatis menyesuaikan pilihan lokasi berdasarkan data lokasi yang ada di database REST API.
 
 3. **Edit Proyek**:
     - Klik tombol **Edit** pada proyek yang ingin diubah.
+    - Menampilkan Form.
     - Form edit juga akan menyesuaikan pilihan lokasi berdasarkan data dari database REST API.
 
 4. **Hapus Proyek**:
