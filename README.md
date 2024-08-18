@@ -29,7 +29,7 @@ Proyek ini adalah aplikasi web yang dikembangkan menggunakan **CodeIgniter 3** y
 
 3. **Pindahkan File ke Direktori XAMPP**:
 
-    Setelah di-clone, pindahkan folder proyek ini ke direktori `C:\xampp\htdocs\{Nama File}`. Pastikan untuk mengganti `Nama File` dengan nama folder yang sesuai dengan nama file repository yang telah Anda clone.
+    Setelah di-clone, pindahkan folder proyek ini ke direktori `C:\xampp\htdocs\{Nama File}`. Pastikan untuk mengganti `Nama File` dengan nama folder yang sesuai dengan nama file repository yang telah Anda clone tanpa kurung kurawal {}.
 
 4. **Jalankan Apache di XAMPP**:
 
